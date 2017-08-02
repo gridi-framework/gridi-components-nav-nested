@@ -1,0 +1,5 @@
+.sub-navs-nested #{$gridi-components-navigation-selector} #{$gridi-components-navigation-sub-nav-selector},
+#{$gridi-components-navigation-selector}.sub-navs-nested #{$gridi-components-navigation-sub-nav-selector},
+#{$gridi-components-navigation-selector} #{$gridi-components-navigation-sub-nav-selector}.sub-nav-nested {
+    margin-left: $gridi-components-navigation-nested-margin;
+}
