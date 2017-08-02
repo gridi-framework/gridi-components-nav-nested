@@ -1,4 +1,4 @@
-# Gridi Components Navigation Horizontal
+# Gridi Components Navigation Nested
 
 ## Install
 `bower install gridi-components-nav-nested`
